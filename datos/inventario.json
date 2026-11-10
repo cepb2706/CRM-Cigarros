@@ -1,8 +1,8 @@
 {
-  "exportado": "2026-11-10T17:30:21.987Z",
+  "exportado": "2026-11-10T18:03:13.680Z",
   "prod": [
     {
-      "id": "mway0iee4nbs",
+      "id": "mwaptdkfsnyr",
       "n": "consul",
       "sz": "grande",
       "upc": 20,
@@ -14,7 +14,7 @@
       "on": true
     },
     {
-      "id": "mway0ieh55mh",
+      "id": "mwaptdkh8en1",
       "n": "belmont",
       "sz": "grande",
       "upc": 20,
@@ -26,7 +26,7 @@
       "on": true
     },
     {
-      "id": "mway0iek72jx",
+      "id": "mwaptdkjin36",
       "n": "universal",
       "sz": "grande",
       "upc": 20,
@@ -34,11 +34,11 @@
       "cu": 1.71,
       "mg": 1.4,
       "pm": 140,
-      "min": 1.25,
+      "min": 2,
       "on": true
     },
     {
-      "id": "mway0iel6vt0",
+      "id": "mwaptdkkhrde",
       "n": "lucky red",
       "sz": "grande",
       "upc": 20,
@@ -46,11 +46,11 @@
       "cu": 2.81,
       "mg": 1.2,
       "pm": 180,
-      "min": 0.5,
+      "min": 1.25,
       "on": true
     },
     {
-      "id": "mway0ienvkwy",
+      "id": "mwaptdkmqkg1",
       "n": "lucky nova",
       "sz": "grande",
       "upc": 20,
@@ -62,7 +62,7 @@
       "on": true
     },
     {
-      "id": "mway0iepbqwi",
+      "id": "mwaptdkoiozy",
       "n": "lucky cosmic",
       "sz": "grande",
       "upc": 20,
@@ -74,31 +74,31 @@
       "on": true
     },
     {
-      "id": "mway0ieqpra9",
+      "id": "mwaptdkqhtix",
       "n": "viceroy",
       "sz": "grande",
       "upc": 20,
       "cpb": 10,
-      "cu": 1.63,
-      "mg": 1.2,
-      "pm": 100,
-      "min": 1.25,
+      "cu": 1.73,
+      "mg": 1.4,
+      "pm": 130,
+      "min": 2,
       "on": true
     },
     {
-      "id": "mway0iesspwi",
+      "id": "mwaptdks52ih",
       "n": "belmont pequeño",
       "sz": "pequeño",
       "upc": 10,
       "cpb": 12,
-      "cu": 1.536,
-      "mg": 1.3,
+      "cu": 1.38,
+      "mg": 1.4,
       "pm": 200,
       "min": 1.25,
-      "on": true
+      "on": false
     },
     {
-      "id": "mway0ieut6kr",
+      "id": "mwaptdku3g0v",
       "n": "pall mall",
       "sz": "grande",
       "upc": 20,
@@ -106,10 +106,147 @@
       "cu": 0.83,
       "mg": 1.5,
       "pm": 80,
-      "min": 1.25,
+      "min": 2,
       "on": true
     }
   ],
-  "mov": [],
+  "mov": [
+    {
+      "id": "mwaq90kpmiq7",
+      "pid": "mwaptdkfsnyr",
+      "t": "a",
+      "q": 120,
+      "f": "2026-11-10T13:29:57.289Z",
+      "m": "Conteo inicial"
+    },
+    {
+      "id": "mwaq9n4ajv5z",
+      "pid": "mwaptdkh8en1",
+      "t": "a",
+      "q": 40,
+      "f": "2026-11-10T13:30:26.506Z",
+      "m": "Conteo inicial"
+    },
+    {
+      "id": "mwaqa7qw4wzo",
+      "pid": "mwaptdkqhtix",
+      "t": "a",
+      "q": 5,
+      "f": "2026-11-10T13:30:53.240Z",
+      "m": "Conteo inicial"
+    },
+    {
+      "id": "mwaqajv7mhs0",
+      "pid": "mwaptdkkhrde",
+      "t": "a",
+      "q": 8,
+      "f": "2026-11-10T13:31:08.947Z",
+      "m": "Conteo inicial"
+    },
+    {
+      "id": "mwaqg0577xy8",
+      "pid": "mwaptdkmqkg1",
+      "t": "a",
+      "q": 40,
+      "f": "2026-11-10T13:35:23.323Z",
+      "m": "Conteo inicial"
+    },
+    {
+      "id": "mwaqggcu6r7m",
+      "pid": "mwaptdkmqkg1",
+      "t": "a",
+      "q": 45,
+      "f": "2026-11-10T13:35:44.334Z",
+      "m": "Error de conteo"
+    },
+    {
+      "id": "mwaqguq63jj4",
+      "pid": "mwaptdkmqkg1",
+      "t": "a",
+      "q": 40,
+      "f": "2026-11-10T13:36:02.958Z",
+      "m": "Conteo inicial"
+    },
+    {
+      "id": "mwaqh4d0pvz0",
+      "pid": "mwaptdkmqkg1",
+      "t": "a",
+      "q": 42,
+      "f": "2026-11-10T13:36:15.444Z",
+      "m": "Robo"
+    },
+    {
+      "id": "mwarjpzg4hta",
+      "pid": "mwaptdkmqkg1",
+      "t": "a",
+      "q": -122,
+      "f": "2026-11-10T14:06:16.396Z",
+      "m": "Error de conteo"
+    },
+    {
+      "id": "mwarkyl5acx5",
+      "pid": "mwaptdkh8en1",
+      "t": "a",
+      "q": -15,
+      "f": "2026-11-10T14:07:14.201Z",
+      "m": "Error de conteo"
+    },
+    {
+      "id": "mwarlavh1mhx",
+      "pid": "mwaptdkh8en1",
+      "t": "a",
+      "q": 10,
+      "f": "2026-11-10T14:07:30.125Z",
+      "m": "Error de conteo"
+    },
+    {
+      "id": "mwarryuilq1z",
+      "pid": "mwaptdkfsnyr",
+      "t": "a",
+      "q": -9,
+      "f": "2026-11-10T14:12:41.130Z",
+      "m": "Error de conteo"
+    },
+    {
+      "id": "mwartn5n8hy6",
+      "pid": "mwaptdkjin36",
+      "t": "a",
+      "q": 40,
+      "f": "2026-11-10T14:13:59.291Z",
+      "m": "Conteo inicial"
+    },
+    {
+      "id": "mwartu6rkahl",
+      "pid": "mwaptdku3g0v",
+      "t": "a",
+      "q": 56,
+      "f": "2026-11-10T14:14:08.403Z",
+      "m": "Conteo inicial"
+    },
+    {
+      "id": "mwat7l84gfhu",
+      "pid": "mwaptdkfsnyr",
+      "t": "v",
+      "q": -20,
+      "f": "2026-11-10T14:52:49.585Z",
+      "ref": "mwat7l8350gl"
+    },
+    {
+      "id": "mwat8nles6bh",
+      "pid": "mwaptdkjin36",
+      "t": "v",
+      "q": -20,
+      "f": "2026-11-10T14:53:39.311Z",
+      "ref": "mwat8nldnj0p"
+    },
+    {
+      "id": "mwataaxz7e00",
+      "pid": "mwaptdku3g0v",
+      "t": "v",
+      "q": -3,
+      "f": "2026-11-10T14:54:56.228Z",
+      "ref": "mwataaxy3vtn"
+    }
+  ],
   "compra": []
 }
