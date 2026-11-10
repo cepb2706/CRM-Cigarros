@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-11-10T22:38:51.667Z",
+  "exportado": "2026-11-10T23:05:11.651Z",
   "tomb": [
     "mwb9kip71c64"
   ],
@@ -103,6 +103,31 @@
       "tb": 1100,
       "tv": 999.5,
       "anu": true
+    },
+    {
+      "id": "mwbasamu0h59",
+      "f": "2026-11-10T23:04:49.107Z",
+      "cid": "mwb7w3kf1b6x",
+      "cn": "Zulay",
+      "items": [
+        {
+          "pid": "mwapl6ptqdrd",
+          "n": "belmont",
+          "pres": "u",
+          "q": 2,
+          "units": 2,
+          "pr": 200,
+          "cb": 237.336
+        }
+      ],
+      "total": 400,
+      "cb": 237.336,
+      "cr": true,
+      "pay": [],
+      "to": 899,
+      "tb": 1100,
+      "tv": 999.5,
+      "anu": false
     }
   ],
   "cli": [
