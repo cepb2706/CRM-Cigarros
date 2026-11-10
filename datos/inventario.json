@@ -1,6 +1,115 @@
 {
-  "exportado": "2026-11-10T17:06:57.598Z",
-  "prod": [],
+  "exportado": "2026-11-10T17:21:40.183Z",
+  "prod": [
+    {
+      "id": "mway0iee4nbs",
+      "n": "consul",
+      "sz": "grande",
+      "upc": 20,
+      "cpb": 10,
+      "cu": 1.43,
+      "mg": 1.5,
+      "pm": 120,
+      "min": 1.25,
+      "on": true
+    },
+    {
+      "id": "mway0ieh55mh",
+      "n": "belmont",
+      "sz": "grande",
+      "upc": 20,
+      "cpb": 10,
+      "cu": 2.64,
+      "mg": 1.4,
+      "pm": 200,
+      "min": 1.25,
+      "on": true
+    },
+    {
+      "id": "mway0iek72jx",
+      "n": "universal",
+      "sz": "grande",
+      "upc": 20,
+      "cpb": 10,
+      "cu": 1.71,
+      "mg": 1.4,
+      "pm": 140,
+      "min": 1.25,
+      "on": true
+    },
+    {
+      "id": "mway0iel6vt0",
+      "n": "lucky red",
+      "sz": "grande",
+      "upc": 20,
+      "cpb": 10,
+      "cu": 2.81,
+      "mg": 1.2,
+      "pm": 180,
+      "min": 0.5,
+      "on": true
+    },
+    {
+      "id": "mway0ienvkwy",
+      "n": "lucky nova",
+      "sz": "grande",
+      "upc": 20,
+      "cpb": 10,
+      "cu": 3.04,
+      "mg": 1.4,
+      "pm": 250,
+      "min": 1.25,
+      "on": true
+    },
+    {
+      "id": "mway0iepbqwi",
+      "n": "lucky cosmic",
+      "sz": "grande",
+      "upc": 20,
+      "cpb": 10,
+      "cu": 3.04,
+      "mg": 1.4,
+      "pm": 250,
+      "min": 1.25,
+      "on": true
+    },
+    {
+      "id": "mway0ieqpra9",
+      "n": "viceroy",
+      "sz": "grande",
+      "upc": 20,
+      "cpb": 10,
+      "cu": 1.63,
+      "mg": 1.2,
+      "pm": 100,
+      "min": 1.25,
+      "on": true
+    },
+    {
+      "id": "mway0iesspwi",
+      "n": "belmont pequeño",
+      "sz": "pequeño",
+      "upc": 10,
+      "cpb": 12,
+      "cu": 1.536,
+      "mg": 1.3,
+      "pm": 200,
+      "min": 1.25,
+      "on": true
+    },
+    {
+      "id": "mway0ieut6kr",
+      "n": "pall mall",
+      "sz": "grande",
+      "upc": 20,
+      "cpb": 10,
+      "cu": 0.83,
+      "mg": 1.5,
+      "pm": 80,
+      "min": 1.25,
+      "on": true
+    }
+  ],
   "mov": [],
   "compra": []
 }
