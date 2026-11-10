@@ -1,5 +1,6 @@
 {
-  "exportado": "2026-11-10T21:46:51.650Z",
+  "exportado": "2026-11-10T22:31:09.031Z",
+  "tomb": [],
   "venta": [
     {
       "id": "mwb7vqgel9tt",
@@ -70,6 +71,31 @@
       "total": 2800,
       "cb": 1537.29,
       "cr": true,
+      "pay": [],
+      "to": 899,
+      "tb": 1100,
+      "tv": 999.5,
+      "anu": false
+    },
+    {
+      "id": "mwb9kip3zqzu",
+      "f": "2026-11-10T22:30:46.695Z",
+      "cid": "",
+      "cn": "",
+      "items": [
+        {
+          "pid": "mwapl6rgrsoe",
+          "n": "viceroy",
+          "pres": "u",
+          "q": 1,
+          "units": 1,
+          "pr": 130,
+          "cb": 73.26849999999999
+        }
+      ],
+      "total": 130,
+      "cb": 73.26849999999999,
+      "cr": false,
       "pay": [],
       "to": 899,
       "tb": 1100,
