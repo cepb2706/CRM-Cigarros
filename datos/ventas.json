@@ -1,5 +1,94 @@
 {
-  "exportado": "2026-11-10T19:52:39.534Z",
-  "venta": [],
-  "cli": []
+  "exportado": "2026-11-10T19:57:39.891Z",
+  "venta": [
+    {
+      "id": "mwb42qw4y7yi",
+      "f": "2026-11-10T19:56:59.426Z",
+      "cid": "mwb42qw2xdqr",
+      "cn": "nerza",
+      "items": [
+        {
+          "pid": "mway0iee4nbs",
+          "n": "consul",
+          "pres": "c",
+          "q": 1,
+          "units": 20,
+          "pr": 2400,
+          "cb": 1285.57
+        }
+      ],
+      "total": 2400,
+      "cb": 1285.57,
+      "cr": true,
+      "pay": [],
+      "to": 899,
+      "tb": 1100,
+      "tv": 999.5,
+      "anu": false
+    },
+    {
+      "id": "mwb435dq77rv",
+      "f": "2026-11-10T19:57:18.204Z",
+      "cid": "mwb435dp5cql",
+      "cn": "carlos tocayo",
+      "items": [
+        {
+          "pid": "mway0iek72jx",
+          "n": "universal",
+          "pres": "c",
+          "q": 1,
+          "units": 20,
+          "pr": 2800,
+          "cb": 1537.29
+        }
+      ],
+      "total": 2800,
+      "cb": 1537.29,
+      "cr": true,
+      "pay": [],
+      "to": 899,
+      "tb": 1100,
+      "tv": 999.5,
+      "anu": false
+    },
+    {
+      "id": "mwb43elg0d9f",
+      "f": "2026-11-10T19:57:30.146Z",
+      "cid": "mwb43elez9ys",
+      "cn": "zulay",
+      "items": [
+        {
+          "pid": "mway0ieut6kr",
+          "n": "pall mall",
+          "pres": "u",
+          "q": 3,
+          "units": 3,
+          "pr": 80,
+          "cb": 111.9255
+        }
+      ],
+      "total": 240,
+      "cb": 111.9255,
+      "cr": true,
+      "pay": [],
+      "to": 899,
+      "tb": 1100,
+      "tv": 999.5,
+      "anu": false
+    }
+  ],
+  "cli": [
+    {
+      "id": "mwb42qw2xdqr",
+      "n": "nerza"
+    },
+    {
+      "id": "mwb435dp5cql",
+      "n": "carlos tocayo"
+    },
+    {
+      "id": "mwb43elez9ys",
+      "n": "zulay"
+    }
+  ]
 }
