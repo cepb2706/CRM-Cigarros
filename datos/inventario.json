@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-11-10T21:42:58.160Z",
+  "exportado": "2026-11-10T21:46:51.650Z",
   "prod": [
     {
       "id": "mwapl6pmws6z",
@@ -173,6 +173,30 @@
       "f": "2026-11-10T21:42:44.842Z",
       "m": "Conteo inicial",
       "cb": 2201.2015
+    },
+    {
+      "id": "mwb7vqgh746z",
+      "pid": "mwapl6pmws6z",
+      "t": "v",
+      "q": -20,
+      "f": "2026-11-10T21:43:30.730Z",
+      "ref": "mwb7vqgel9tt"
+    },
+    {
+      "id": "mwb7w3kjke2p",
+      "pid": "mwapl6s2o0kx",
+      "t": "v",
+      "q": -3,
+      "f": "2026-11-10T21:43:47.727Z",
+      "ref": "mwb7w3kij1ey"
+    },
+    {
+      "id": "mwb7wv0uh823",
+      "pid": "mwapl6qbekdq",
+      "t": "v",
+      "q": -20,
+      "f": "2026-11-10T21:44:23.305Z",
+      "ref": "mwb7wv0s9way"
     }
   ],
   "compra": []
