@@ -1,20 +1,20 @@
 {
-  "exportado": "2026-11-10T19:52:39.534Z",
+  "exportado": "2026-11-10T19:57:39.891Z",
   "prod": [
     {
-      "id": "mwapl6pmws6z",
+      "id": "mway0iee4nbs",
       "n": "consul",
       "sz": "grande",
       "upc": 20,
       "cpb": 10,
       "cu": 1.43,
-      "mg": 1.4,
+      "mg": 1.5,
       "pm": 120,
-      "min": 2,
+      "min": 1.25,
       "on": true
     },
     {
-      "id": "mwapl6ptqdrd",
+      "id": "mway0ieh55mh",
       "n": "belmont",
       "sz": "grande",
       "upc": 20,
@@ -22,11 +22,11 @@
       "cu": 2.64,
       "mg": 1.4,
       "pm": 200,
-      "min": 2,
+      "min": 1.25,
       "on": true
     },
     {
-      "id": "mwapl6qbekdq",
+      "id": "mway0iek72jx",
       "n": "universal",
       "sz": "grande",
       "upc": 20,
@@ -34,23 +34,23 @@
       "cu": 1.71,
       "mg": 1.4,
       "pm": 140,
-      "min": 2,
+      "min": 1.25,
       "on": true
     },
     {
-      "id": "mwapl6qj7ahc",
+      "id": "mway0iel6vt0",
       "n": "lucky red",
       "sz": "grande",
       "upc": 20,
       "cpb": 10,
       "cu": 2.81,
-      "mg": 1.4,
-      "pm": 220,
-      "min": 2,
+      "mg": 1.2,
+      "pm": 180,
+      "min": 0.5,
       "on": true
     },
     {
-      "id": "mwapl6qs9qeo",
+      "id": "mway0ienvkwy",
       "n": "lucky nova",
       "sz": "grande",
       "upc": 20,
@@ -58,11 +58,11 @@
       "cu": 3.04,
       "mg": 1.4,
       "pm": 250,
-      "min": 2,
+      "min": 1.25,
       "on": true
     },
     {
-      "id": "mwapl6r5dfhs",
+      "id": "mway0iepbqwi",
       "n": "lucky cosmic",
       "sz": "grande",
       "upc": 20,
@@ -70,35 +70,35 @@
       "cu": 3.04,
       "mg": 1.4,
       "pm": 250,
-      "min": 2,
+      "min": 1.25,
       "on": true
     },
     {
-      "id": "mwapl6rgrsoe",
+      "id": "mway0ieqpra9",
       "n": "viceroy",
       "sz": "grande",
       "upc": 20,
       "cpb": 10,
       "cu": 1.63,
-      "mg": 1.4,
-      "pm": 130,
-      "min": 2,
+      "mg": 1.2,
+      "pm": 100,
+      "min": 1.25,
       "on": true
     },
     {
-      "id": "mwapl6rruhy5",
+      "id": "mway0iesspwi",
       "n": "belmont pequeño",
       "sz": "pequeño",
       "upc": 10,
       "cpb": 12,
-      "cu": 1.536,
-      "mg": 1.4,
+      "cu": 1.38,
+      "mg": 1.3,
       "pm": 200,
-      "min": 2,
-      "on": true
+      "min": 1.25,
+      "on": false
     },
     {
-      "id": "mwapl6s2o0kx",
+      "id": "mway0ieut6kr",
       "n": "pall mall",
       "sz": "grande",
       "upc": 20,
@@ -106,10 +106,98 @@
       "cu": 0.83,
       "mg": 1.5,
       "pm": 80,
-      "min": 2,
+      "min": 1.25,
       "on": true
     }
   ],
-  "mov": [],
+  "mov": [
+    {
+      "id": "mwb40az7ppel",
+      "pid": "mway0iee4nbs",
+      "t": "a",
+      "q": 131,
+      "f": "2026-11-10T19:55:05.491Z",
+      "m": "Conteo inicial",
+      "cb": 8420.483499999998
+    },
+    {
+      "id": "mwb40ksjbhpo",
+      "pid": "mway0ieh55mh",
+      "t": "a",
+      "q": 35,
+      "f": "2026-11-10T19:55:18.211Z",
+      "m": "Conteo inicial",
+      "cb": 4153.38
+    },
+    {
+      "id": "mwb40up9ra6j",
+      "pid": "mway0iek72jx",
+      "t": "a",
+      "q": 60,
+      "f": "2026-11-10T19:55:31.053Z",
+      "m": "Conteo inicial",
+      "cb": 4611.87
+    },
+    {
+      "id": "mwb413r76t1k",
+      "pid": "mway0iel6vt0",
+      "t": "a",
+      "q": 8,
+      "f": "2026-11-10T19:55:42.787Z",
+      "m": "Conteo inicial",
+      "cb": 1010.4760000000001
+    },
+    {
+      "id": "mwb41apx3lmc",
+      "pid": "mway0ienvkwy",
+      "t": "a",
+      "q": 45,
+      "f": "2026-11-10T19:55:51.813Z",
+      "m": "Conteo inicial",
+      "cb": 6149.16
+    },
+    {
+      "id": "mwb41j4pmowj",
+      "pid": "mway0ieqpra9",
+      "t": "a",
+      "q": 5,
+      "f": "2026-11-10T19:56:02.713Z",
+      "m": "Conteo inicial",
+      "cb": 366.3425
+    },
+    {
+      "id": "mwb41s9zmhtw",
+      "pid": "mway0ieut6kr",
+      "t": "a",
+      "q": 59,
+      "f": "2026-11-10T19:56:14.566Z",
+      "m": "Conteo inicial",
+      "cb": 2201.2015
+    },
+    {
+      "id": "mwb42qw5si23",
+      "pid": "mway0iee4nbs",
+      "t": "v",
+      "q": -20,
+      "f": "2026-11-10T19:56:59.426Z",
+      "ref": "mwb42qw4y7yi"
+    },
+    {
+      "id": "mwb435drq01h",
+      "pid": "mway0iek72jx",
+      "t": "v",
+      "q": -20,
+      "f": "2026-11-10T19:57:18.204Z",
+      "ref": "mwb435dq77rv"
+    },
+    {
+      "id": "mwb43elgh0lp",
+      "pid": "mway0ieut6kr",
+      "t": "v",
+      "q": -3,
+      "f": "2026-11-10T19:57:30.146Z",
+      "ref": "mwb43elg0d9f"
+    }
+  ],
   "compra": []
 }
