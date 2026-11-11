@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-11-11T23:24:50.813Z",
+  "exportado": "2026-11-11T23:53:42.894Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -242,6 +242,14 @@
       "q": -1,
       "f": "2026-11-11T23:20:58.965Z",
       "ref": "mwcqsxn9dae6"
+    },
+    {
+      "id": "mwcrq92thyjf",
+      "pid": "mwapl6s2o0kx",
+      "t": "v",
+      "q": -3,
+      "f": "2026-11-11T23:46:53.417Z",
+      "ref": "mwcrq92p8j31"
     }
   ],
   "compra": []
