@@ -1,7 +1,9 @@
 {
-  "exportado": "2026-11-11T22:40:12.417Z",
+  "exportado": "2026-11-11T23:24:50.813Z",
   "tomb": [
-    "mwb9kip71c64"
+    "mwb9kip71c64",
+    "mwcqs857mhlp",
+    "mwcqs85a761f"
   ],
   "venta": [
     {
@@ -173,6 +175,74 @@
       "total": 400,
       "cb": 186.54250000000002,
       "cr": true,
+      "pay": [],
+      "to": 901.62,
+      "tb": 1074.59,
+      "tv": 988.105,
+      "anu": false
+    },
+    {
+      "id": "mwcqs851j2gt",
+      "f": "2026-11-11T23:20:25.909Z",
+      "cid": "",
+      "cn": "",
+      "items": [
+        {
+          "pid": "mwapl6ptqdrd",
+          "n": "belmont",
+          "pres": "u",
+          "q": 1,
+          "units": 1,
+          "pr": 200,
+          "cb": 118.66799999999999
+        },
+        {
+          "pid": "mwapl6qj7ahc",
+          "n": "lucky red",
+          "pres": "u",
+          "q": 1,
+          "units": 1,
+          "pr": 200,
+          "cb": 126.30950000000001
+        }
+      ],
+      "total": 400,
+      "cb": 244.97750000000002,
+      "cr": false,
+      "pay": [],
+      "to": 901.62,
+      "tb": 1074.59,
+      "tv": 988.105,
+      "anu": true
+    },
+    {
+      "id": "mwcqsxn9dae6",
+      "f": "2026-11-11T23:20:58.965Z",
+      "cid": "",
+      "cn": "",
+      "items": [
+        {
+          "pid": "mwapl6ptqdrd",
+          "n": "belmont",
+          "pres": "u",
+          "q": 1,
+          "units": 1,
+          "pr": 200,
+          "cb": 118.66799999999999
+        },
+        {
+          "pid": "mwapl6qs9qeo",
+          "n": "lucky nova",
+          "pres": "u",
+          "q": 1,
+          "units": 1,
+          "pr": 250,
+          "cb": 136.648
+        }
+      ],
+      "total": 450,
+      "cb": 255.31599999999997,
+      "cr": false,
       "pay": [],
       "to": 901.62,
       "tb": 1074.59,
