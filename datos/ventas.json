@@ -1,5 +1,5 @@
 {
-  "exportado": "2026-11-11T16:19:26.530Z",
+  "exportado": "2026-11-11T22:40:12.417Z",
   "tomb": [
     "mwb9kip71c64"
   ],
@@ -152,6 +152,31 @@
       "to": 899,
       "tb": 1100,
       "tv": 999.5,
+      "anu": false
+    },
+    {
+      "id": "mwcp9zx575rs",
+      "f": "2026-11-11T22:38:15.832Z",
+      "cid": "mwcbgrjjghvk",
+      "cn": "Yuri planta",
+      "items": [
+        {
+          "pid": "mwapl6s2o0kx",
+          "n": "pall mall",
+          "pres": "u",
+          "q": 5,
+          "units": 5,
+          "pr": 80,
+          "cb": 186.54250000000002
+        }
+      ],
+      "total": 400,
+      "cb": 186.54250000000002,
+      "cr": true,
+      "pay": [],
+      "to": 901.62,
+      "tb": 1074.59,
+      "tv": 988.105,
       "anu": false
     }
   ],
