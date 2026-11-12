@@ -1,5 +1,6 @@
 {
-  "exportado": "2026-11-11T23:53:42.894Z",
+  "exportado": "2026-11-12T02:43:17.516Z",
+  "pub": "2026-11-12T02:43:17.516Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -263,7 +264,7 @@
       "id": "mwcrq92p8j31",
       "f": "2026-11-11T23:46:53.417Z",
       "cid": "mwcrq92ho6lz",
-      "cn": "Marielos EDF 1",
+      "cn": "Marielis EDF 1",
       "items": [
         {
           "pid": "mwapl6s2o0kx",
@@ -282,7 +283,8 @@
       "to": 901.62,
       "tb": 1074.59,
       "tv": 988.105,
-      "anu": false
+      "anu": false,
+      "u": 1794448925162
     }
   ],
   "cli": [
@@ -304,7 +306,8 @@
     },
     {
       "id": "mwcrq92ho6lz",
-      "n": "Marielos EDF 1"
+      "n": "Marielis EDF 1",
+      "u": 1794448925154
     }
   ]
 }
