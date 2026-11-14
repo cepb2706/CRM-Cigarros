@@ -1,10 +1,12 @@
 {
-  "exportado": "2026-11-12T21:48:39.730Z",
-  "pub": "2026-11-12T21:48:39.730Z",
+  "exportado": "2026-11-14T16:28:11.644Z",
+  "pub": "2026-11-14T16:28:11.644Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
-    "mwcqs85a761f"
+    "mwcqs85a761f",
+    "mwcqsxnd0zue",
+    "mwcqsxnfyqkl"
   ],
   "prod": [
     {
@@ -86,10 +88,11 @@
       "upc": 20,
       "cpb": 10,
       "cu": 1.63,
-      "mg": 1.2,
-      "pm": 130,
+      "mg": 1.15,
+      "pm": 100,
       "min": 0.5,
-      "on": true
+      "on": true,
+      "u": 1794520214730
     },
     {
       "id": "mwapl6rruhy5",
@@ -230,28 +233,102 @@
       "ref": "mwcp9zx575rs"
     },
     {
-      "id": "mwcqsxnd0zue",
-      "pid": "mwapl6ptqdrd",
-      "t": "v",
-      "q": -1,
-      "f": "2026-11-11T23:20:58.965Z",
-      "ref": "mwcqsxn9dae6"
-    },
-    {
-      "id": "mwcqsxnfyqkl",
-      "pid": "mwapl6qs9qeo",
-      "t": "v",
-      "q": -1,
-      "f": "2026-11-11T23:20:58.965Z",
-      "ref": "mwcqsxn9dae6"
-    },
-    {
       "id": "mwcrq92thyjf",
       "pid": "mwapl6s2o0kx",
       "t": "v",
       "q": -3,
       "f": "2026-11-11T23:46:53.417Z",
       "ref": "mwcrq92p8j31"
+    },
+    {
+      "id": "mwfs7qj9jk0m",
+      "pid": "mwapl6ptqdrd",
+      "t": "v",
+      "q": -1,
+      "f": "2026-11-14T02:23:47.715Z",
+      "ref": "mwfs7qitlylo",
+      "u": 1794623027734
+    },
+    {
+      "id": "mwfs7qjkmmas",
+      "pid": "mwapl6qs9qeo",
+      "t": "v",
+      "q": -1,
+      "f": "2026-11-14T02:23:47.715Z",
+      "ref": "mwfs7qitlylo",
+      "u": 1794623027744
+    },
+    {
+      "id": "mwfscfzf1cmu",
+      "pid": "mwapl6qs9qeo",
+      "t": "v",
+      "q": -1,
+      "f": "2026-11-14T02:27:27.334Z",
+      "ref": "mwfscfzarnrn",
+      "u": 1794623247340
+    },
+    {
+      "id": "mwfscfzkvbj7",
+      "pid": "mwapl6pmws6z",
+      "t": "v",
+      "q": -1,
+      "f": "2026-11-14T02:27:27.334Z",
+      "ref": "mwfscfzarnrn",
+      "u": 1794623247344
+    },
+    {
+      "id": "mwfscfzq8i62",
+      "pid": "mwapl6s2o0kx",
+      "t": "v",
+      "q": -5,
+      "f": "2026-11-14T02:27:27.334Z",
+      "ref": "mwfscfzarnrn",
+      "u": 1794623247350
+    },
+    {
+      "id": "mwfscfzva9s8",
+      "pid": "mwapl6rgrsoe",
+      "t": "v",
+      "q": -3,
+      "f": "2026-11-14T02:27:27.334Z",
+      "ref": "mwfscfzarnrn",
+      "u": 1794623247355
+    },
+    {
+      "id": "mwfsd4434td1",
+      "pid": "mwapl6qs9qeo",
+      "t": "a",
+      "q": 1,
+      "f": "2026-11-14T02:27:58.611Z",
+      "m": "Error de conteo",
+      "u": 1794623278611
+    },
+    {
+      "id": "mwfsda6q7hrm",
+      "pid": "mwapl6pmws6z",
+      "t": "a",
+      "q": 1,
+      "f": "2026-11-14T02:28:06.482Z",
+      "m": "Error de conteo",
+      "u": 1794623286482
+    },
+    {
+      "id": "mwfsds9tk5cl",
+      "pid": "mwapl6s2o0kx",
+      "t": "a",
+      "q": 5,
+      "f": "2026-11-14T02:28:29.921Z",
+      "m": "Error de conteo",
+      "u": 1794623309921
+    },
+    {
+      "id": "mwfsdxou5oyw",
+      "pid": "mwapl6rgrsoe",
+      "t": "a",
+      "q": 3,
+      "f": "2026-11-14T02:28:36.942Z",
+      "m": "Error de conteo",
+      "u": 1794623316942
     }
   ],
   "compra": []
