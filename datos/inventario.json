@@ -1,6 +1,6 @@
 {
-  "exportado": "2026-11-17T17:54:46.793Z",
-  "pub": "2026-11-17T17:54:46.793Z",
+  "exportado": "2026-11-18T00:51:55.834Z",
+  "pub": "2026-11-18T00:51:55.834Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -9,7 +9,11 @@
     "mwcqsxnfyqkl",
     "mwh7d61ojv3w",
     "mwk0020c1x29",
-    "mwk00n428xk2"
+    "mwk00n428xk2",
+    "mwlbz5027zbn",
+    "mwlc0i8rk3km",
+    "mwlc20d9h2di",
+    "mwlenlodufud"
   ],
   "prod": [
     {
@@ -404,6 +408,15 @@
       "f": "2026-11-17T17:54:23.336Z",
       "ref": "mwkzs1kby7fx",
       "u": 1794938063365
+    },
+    {
+      "id": "mwl09nno5ty6",
+      "pid": "mwapl6qs9qeo",
+      "t": "v",
+      "q": -2,
+      "f": "2026-11-17T18:08:05.119Z",
+      "ref": "mwl09nnkg3q0",
+      "u": 1794938885125
     }
   ],
   "compra": []
