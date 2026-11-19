@@ -1,6 +1,6 @@
 {
-  "exportado": "2026-11-18T19:36:28.562Z",
-  "pub": "2026-11-18T19:36:28.562Z",
+  "exportado": "2026-11-19T01:44:09.300Z",
+  "pub": "2026-11-19T01:44:09.300Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -13,7 +13,8 @@
     "mwlbz5027zbn",
     "mwlc0i8rk3km",
     "mwlc20d9h2di",
-    "mwlenlodufud"
+    "mwlenlodufud",
+    "mwmkkec8tpi3"
   ],
   "prod": [
     {
@@ -417,6 +418,15 @@
       "f": "2026-11-17T18:08:05.119Z",
       "ref": "mwl09nnkg3q0",
       "u": 1794938885125
+    },
+    {
+      "id": "mwmvwlmlbm5d",
+      "pid": "mwapl6qs9qeo",
+      "t": "v",
+      "q": -2,
+      "f": "2026-11-19T01:41:29.844Z",
+      "ref": "mwmvwlmd1pqk",
+      "u": 1795052489853
     }
   ],
   "compra": []
