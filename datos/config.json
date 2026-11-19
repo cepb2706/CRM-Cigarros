@@ -1,6 +1,6 @@
 {
-  "exportado": "2026-11-18T19:36:28.562Z",
-  "pub": "2026-11-18T19:36:28.562Z",
+  "exportado": "2026-11-19T01:44:09.300Z",
+  "pub": "2026-11-19T01:44:09.300Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -13,15 +13,21 @@
     "mwlbz5027zbn",
     "mwlc0i8rk3km",
     "mwlc20d9h2di",
-    "mwlenlodufud"
+    "mwlenlodufud",
+    "mwmkkec8tpi3"
   ],
   "cfg": [
     {
       "id": "rates",
-      "oficial": 915.75,
-      "binance": 1072.3,
-      "fecha": "2026-11-17",
+      "oficial": 916.65,
+      "binance": 1073.97,
+      "fecha": "2026-11-19",
       "hist": [
+        {
+          "f": "2026-11-19",
+          "oficial": 916.65,
+          "binance": 1073.97
+        },
         {
           "f": "2026-11-17",
           "oficial": 915.75,
@@ -93,7 +99,7 @@
           "binance": 1077.97
         }
       ],
-      "u": 1794938851418
+      "u": 1795052636085
     }
   ]
 }
