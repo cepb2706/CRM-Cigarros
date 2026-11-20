@@ -1,6 +1,6 @@
 {
-  "exportado": "2026-11-19T21:57:11.305Z",
-  "pub": "2026-11-19T21:57:11.305Z",
+  "exportado": "2026-11-20T17:38:06.669Z",
+  "pub": "2026-11-20T17:38:06.669Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -14,7 +14,9 @@
     "mwlc0i8rk3km",
     "mwlc20d9h2di",
     "mwlenlodufud",
-    "mwmkkec8tpi3"
+    "mwmkkec8tpi3",
+    "mwh8pelh9blg",
+    "mwlc2zwdqq90"
   ],
   "venta": [
     {
@@ -801,6 +803,34 @@
       "tv": 995.31,
       "anu": false,
       "u": 1795125425074
+    },
+    {
+      "id": "mwo61zao23df",
+      "f": "2026-11-19T23:13:23.183Z",
+      "cid": "mwb7wv0p80gt",
+      "cn": "Carlos tocayo",
+      "items": [
+        {
+          "pid": "mwapl6pmws6z",
+          "n": "consul",
+          "pres": "u",
+          "q": 11,
+          "units": 11,
+          "pr": 120,
+          "pn": 120,
+          "dc": 0,
+          "cb": 707.0635
+        }
+      ],
+      "total": 1320,
+      "cb": 707.0635,
+      "cr": true,
+      "pay": [],
+      "to": 916.65,
+      "tb": 1073.97,
+      "tv": 995.31,
+      "anu": false,
+      "u": 1795130003186
     }
   ],
   "cli": [
@@ -843,22 +873,22 @@
   ],
   "gasto": [
     {
-      "id": "mwh8pelh9blg",
-      "f": "2026-11-14T16:00:00.000Z",
-      "m": 2110,
-      "c": "Perros calientes y refresco",
-      "src": "pm",
+      "id": "mwp9cmq9uj0a",
+      "f": "2026-11-20T16:00:00.000Z",
+      "m": 2560,
+      "c": "Inversión a cuenta para comprar mercancia",
+      "src": "efb",
       "mon": "BS",
-      "u": 1794711192102
+      "u": 1795196005138
     },
     {
-      "id": "mwlc2zwdqq90",
-      "f": "2026-11-15T16:00:00.000Z",
-      "m": 1350,
-      "c": "Refresco",
+      "id": "mwp9fdtn35dq",
+      "f": "2026-11-20T16:00:00.000Z",
+      "m": 10330.36,
+      "c": "Compra de mercancia",
       "src": "pm",
       "mon": "BS",
-      "u": 1794958729789
+      "u": 1795196133563
     }
   ]
 }
