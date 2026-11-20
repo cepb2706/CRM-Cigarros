@@ -1,6 +1,6 @@
 {
-  "exportado": "2026-11-19T21:57:11.305Z",
-  "pub": "2026-11-19T21:57:11.305Z",
+  "exportado": "2026-11-20T17:38:06.669Z",
+  "pub": "2026-11-20T17:38:06.669Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -14,7 +14,9 @@
     "mwlc0i8rk3km",
     "mwlc20d9h2di",
     "mwlenlodufud",
-    "mwmkkec8tpi3"
+    "mwmkkec8tpi3",
+    "mwh8pelh9blg",
+    "mwlc2zwdqq90"
   ],
   "prod": [
     {
@@ -51,7 +53,8 @@
       "mg": 1.4,
       "pm": 140,
       "min": 1.2,
-      "on": true
+      "on": true,
+      "u": 1795195859361
     },
     {
       "id": "mwapl6qj7ahc",
@@ -87,7 +90,8 @@
       "mg": 1.4,
       "pm": 250,
       "min": 1.2,
-      "on": true
+      "on": true,
+      "u": 1795195825407
     },
     {
       "id": "mwapl6rgrsoe",
@@ -125,7 +129,8 @@
       "mg": 1.5,
       "pm": 80,
       "min": 1.2,
-      "on": true
+      "on": true,
+      "u": 1795195883809
     }
   ],
   "mov": [
@@ -436,7 +441,86 @@
       "f": "2026-11-19T21:57:05.071Z",
       "ref": "mwo3busxgv58",
       "u": 1795125425087
+    },
+    {
+      "id": "mwo61zavx30v",
+      "pid": "mwapl6pmws6z",
+      "t": "v",
+      "q": -11,
+      "f": "2026-11-19T23:13:23.183Z",
+      "ref": "mwo61zao23df",
+      "u": 1795130003191
+    },
+    {
+      "id": "mwp98s1of79a",
+      "pid": "mwapl6r5dfhs",
+      "t": "c",
+      "q": 20,
+      "cb": 2793.0608,
+      "f": "2026-11-20T17:30:25.393Z",
+      "ref": "mwp98s1dkb0h",
+      "u": 1795195825404
+    },
+    {
+      "id": "mwp99i8tap55",
+      "pid": "mwapl6qbekdq",
+      "t": "c",
+      "q": 80,
+      "cb": 6284.386799999999,
+      "f": "2026-11-20T17:30:59.352Z",
+      "ref": "mwp99i8od7fa",
+      "u": 1795195859357
+    },
+    {
+      "id": "mwp9a13wwelq",
+      "pid": "mwapl6s2o0kx",
+      "t": "c",
+      "q": 100,
+      "cb": 3812.8954999999996,
+      "f": "2026-11-20T17:31:23.798Z",
+      "ref": "mwp9a13qlx2j",
+      "u": 1795195883804
     }
   ],
-  "compra": []
+  "compra": [
+    {
+      "id": "mwp98s1dkb0h",
+      "f": "2026-11-20T17:30:25.393Z",
+      "prov": "Venejugos",
+      "pid": "mwapl6r5dfhs",
+      "n": "lucky cosmic",
+      "cajas": 1,
+      "mon": "USD",
+      "costo": 3.04,
+      "tasa": 918.77,
+      "tb": 2793.0608,
+      "u": 1795195825394
+    },
+    {
+      "id": "mwp99i8od7fa",
+      "f": "2026-11-20T17:30:59.352Z",
+      "prov": "Venejugos",
+      "pid": "mwapl6qbekdq",
+      "n": "universal",
+      "cajas": 4,
+      "mon": "USD",
+      "costo": 1.71,
+      "tasa": 918.77,
+      "tb": 6284.386799999999,
+      "u": 1795195859352
+    },
+    {
+      "id": "mwp9a13qlx2j",
+      "f": "2026-11-20T17:31:23.798Z",
+      "prov": "Venejugos",
+      "pid": "mwapl6s2o0kx",
+      "n": "pall mall",
+      "cajas": 5,
+      "mon": "USD",
+      "costo": 0.83,
+      "tasa": 918.77,
+      "tb": 3812.8954999999996,
+      "u": 1795195883798
+    }
+  ]
 }
