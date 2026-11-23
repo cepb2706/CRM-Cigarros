@@ -1,6 +1,6 @@
 {
-  "exportado": "2026-11-23T00:24:53.036Z",
-  "pub": "2026-11-23T00:24:53.036Z",
+  "exportado": "2026-11-23T11:45:11.042Z",
+  "pub": "2026-11-23T11:45:11.042Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -18,7 +18,8 @@
     "mwh8pelh9blg",
     "mwlc2zwdqq90",
     "mwp9fdtn35dq",
-    "mwp9cmq9uj0a"
+    "mwp9cmq9uj0a",
+    "mwsitbjzy0dq"
   ],
   "venta": [
     {
@@ -1002,8 +1003,36 @@
       "to": 918.77,
       "tb": 1082.62,
       "tv": 1000.6949999999999,
+      "anu": true,
+      "u": 1795434273819
+    },
+    {
+      "id": "mwt7859gsikb",
+      "f": "2026-11-23T11:45:01.346Z",
+      "cid": "mwjzf5ax8afi",
+      "cn": "Jhon Smith",
+      "items": [
+        {
+          "pid": "mwapl6qs9qeo",
+          "n": "lucky nova",
+          "pres": "u",
+          "q": 2,
+          "units": 2,
+          "pr": 250,
+          "pn": 250,
+          "dc": 0,
+          "cb": 273.29599999999994
+        }
+      ],
+      "total": 500,
+      "cb": 273.29599999999994,
+      "cr": true,
+      "pay": [],
+      "to": 918.77,
+      "tb": 1082.62,
+      "tv": 1000.6949999999999,
       "anu": false,
-      "u": 1795393298864
+      "u": 1795434301348
     }
   ],
   "cli": [
