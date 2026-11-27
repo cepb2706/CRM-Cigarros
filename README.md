@@ -1,6 +1,6 @@
 # CRM Ventas
 
-Página web para llevar el inventario, las ventas, las compras y los fiados de un negocio de cigarros. Funciona en el navegador del computador y del teléfono, y se puede instalar como app.
+Página web para llevar el inventario, las ventas, las compras y los fiados de un negocio de canal bajo tipo kiosco o bodega. Funciona en el navegador del computador y del teléfono, y se puede instalar como app.
 
 Dirección de la página: https://cepb2706.github.io/CRM-Cigarros/
 
