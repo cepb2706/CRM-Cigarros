@@ -1,6 +1,6 @@
 {
-  "exportado": "2026-11-26T20:02:41.391Z",
-  "pub": "2026-11-26T20:02:41.391Z",
+  "exportado": "2026-11-28T08:53:27.988Z",
+  "pub": "2026-11-28T08:53:27.988Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -21,15 +21,32 @@
     "mwp9cmq9uj0a",
     "mwsitbjzy0dq",
     "mwtnvmfx8txm",
-    "mwtp164ro6s7"
+    "mwtp164ro6s7",
+    "mwr2joxbhlma",
+    "mwr2gpaf6hjc"
   ],
   "cfg": [
     {
       "id": "rates",
-      "oficial": 919.82,
-      "binance": 1112.01,
-      "fecha": "2026-11-24",
+      "oficial": 926.36,
+      "binance": 1087.65,
+      "fecha": "2026-11-28",
       "hist": [
+        {
+          "f": "2026-11-28",
+          "oficial": 926.36,
+          "binance": 1087.65
+        },
+        {
+          "f": "2026-11-27",
+          "oficial": 926.36,
+          "binance": 1082.22
+        },
+        {
+          "f": "2026-11-27",
+          "oficial": 926.36,
+          "binance": 1080.57
+        },
         {
           "f": "2026-11-24",
           "oficial": 919.82,
@@ -146,7 +163,28 @@
           "binance": 1077.97
         }
       ],
-      "u": 1795562687927
+      "u": 1795855937289
+    },
+    {
+      "id": "clas",
+      "lin": [
+        "TABACOS Y SUCEDANEOS"
+      ],
+      "sub": [
+        "CIGARRILLOS"
+      ],
+      "mar": [
+        "BELMONT",
+        "CONSUL",
+        "LUCKY",
+        "PALL MALL",
+        "UNIVERSAL",
+        "VICEROY"
+      ],
+      "tip": [
+        "CIGARROS"
+      ],
+      "u": 1795760813936
     }
   ]
 }
