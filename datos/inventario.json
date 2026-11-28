@@ -1,6 +1,6 @@
 {
-  "exportado": "2026-11-26T20:02:41.391Z",
-  "pub": "2026-11-26T20:02:41.391Z",
+  "exportado": "2026-11-28T08:53:27.988Z",
+  "pub": "2026-11-28T08:53:27.988Z",
   "tomb": [
     "mwb9kip71c64",
     "mwcqs857mhlp",
@@ -21,7 +21,9 @@
     "mwp9cmq9uj0a",
     "mwsitbjzy0dq",
     "mwtnvmfx8txm",
-    "mwtp164ro6s7"
+    "mwtp164ro6s7",
+    "mwr2joxbhlma",
+    "mwr2gpaf6hjc"
   ],
   "prod": [
     {
@@ -34,7 +36,12 @@
       "mg": 1.4,
       "pm": 120,
       "min": 1.2,
-      "on": true
+      "on": true,
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "CONSUL",
+      "tip": "CIGARROS",
+      "u": 1795760693872
     },
     {
       "id": "mwapl6ptqdrd",
@@ -46,7 +53,12 @@
       "mg": 1.4,
       "pm": 200,
       "min": 1.25,
-      "on": true
+      "on": true,
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "BELMONT",
+      "tip": "CIGARROS",
+      "u": 1795760662532
     },
     {
       "id": "mwapl6qbekdq",
@@ -59,7 +71,11 @@
       "pm": 140,
       "min": 1.2,
       "on": true,
-      "u": 1795195859361
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "UNIVERSAL",
+      "tip": "CIGARROS",
+      "u": 1795760759966
     },
     {
       "id": "mwapl6qj7ahc",
@@ -71,7 +87,12 @@
       "mg": 1.2,
       "pm": 200,
       "min": 1.2,
-      "on": true
+      "on": true,
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "LUCKY",
+      "tip": "CIGARROS",
+      "u": 1795760734109
     },
     {
       "id": "mwapl6qs9qeo",
@@ -83,7 +104,12 @@
       "mg": 1.4,
       "pm": 250,
       "min": 1.2,
-      "on": true
+      "on": true,
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "LUCKY",
+      "tip": "CIGARROS",
+      "u": 1795760725818
     },
     {
       "id": "mwapl6r5dfhs",
@@ -96,7 +122,11 @@
       "pm": 250,
       "min": 1.2,
       "on": true,
-      "u": 1795195825407
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "LUCKY",
+      "tip": "CIGARROS",
+      "u": 1795760707780
     },
     {
       "id": "mwapl6rgrsoe",
@@ -109,7 +139,11 @@
       "pm": 110,
       "min": 0.5,
       "on": true,
-      "u": 1795482508354
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "VICEROY",
+      "tip": "CIGARROS",
+      "u": 1795760813952
     },
     {
       "id": "mwapl6rruhy5",
@@ -122,7 +156,11 @@
       "pm": 200,
       "min": 0.5,
       "on": false,
-      "u": 1794449948890
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "BELMONT",
+      "tip": "CIGARROS",
+      "u": 1795760671351
     },
     {
       "id": "mwapl6s2o0kx",
@@ -135,7 +173,11 @@
       "pm": 80,
       "min": 1.2,
       "on": true,
-      "u": 1795195883809
+      "lin": "TABACOS Y SUCEDANEOS",
+      "sub": "CIGARRILLOS",
+      "mar": "PALL MALL",
+      "tip": "CIGARROS",
+      "u": 1795760748093
     }
   ],
   "mov": [
@@ -557,6 +599,51 @@
       "f": "2026-11-26T20:02:29.195Z",
       "ref": "mwxzbgmxl0b3",
       "u": 1795723350078
+    },
+    {
+      "id": "mwvbte0sc9ta",
+      "pid": "mwapl6ptqdrd",
+      "t": "a",
+      "q": -2,
+      "f": "2026-11-24T23:29:03.291Z",
+      "m": "Merma",
+      "u": 1795562943295
+    },
+    {
+      "id": "mwww1nzxv4ay",
+      "pid": "mwapl6ptqdrd",
+      "t": "v",
+      "q": -2,
+      "f": "2026-11-26T01:43:07.960Z",
+      "ref": "mwww1nzshu10",
+      "u": 1795657387966
+    },
+    {
+      "id": "mwww29arz0m9",
+      "pid": "mwapl6qbekdq",
+      "t": "v",
+      "q": -20,
+      "f": "2026-11-26T01:43:35.566Z",
+      "ref": "mwww29am49u1",
+      "u": 1795657415571
+    },
+    {
+      "id": "mwzd70rvszb5",
+      "pid": "mwapl6ptqdrd",
+      "t": "v",
+      "q": -3,
+      "f": "2026-11-27T19:18:41.651Z",
+      "ref": "mwzd70ntk6y9",
+      "u": 1795807123627
+    },
+    {
+      "id": "mx069swg6r4w",
+      "pid": "mwapl6qs9qeo",
+      "t": "v",
+      "q": -2,
+      "f": "2026-11-28T08:52:40.507Z",
+      "ref": "mx069stb5ud8",
+      "u": 1795855962256
     }
   ],
   "compra": [
@@ -571,7 +658,19 @@
       "costo": 3.04,
       "tasa": 918.77,
       "tb": 2793.0608,
-      "u": 1795195825394
+      "u": 1795742549772,
+      "pg": [
+        {
+          "src": "pm",
+          "m": 233.06,
+          "mon": "BS"
+        },
+        {
+          "src": "efb",
+          "m": 2560,
+          "mon": "BS"
+        }
+      ]
     },
     {
       "id": "mwp99i8od7fa",
@@ -584,7 +683,14 @@
       "costo": 1.71,
       "tasa": 918.77,
       "tb": 6284.386799999999,
-      "u": 1795195859352
+      "u": 1795742585742,
+      "pg": [
+        {
+          "src": "pm",
+          "m": 6284.39,
+          "mon": "BS"
+        }
+      ]
     },
     {
       "id": "mwp9a13qlx2j",
@@ -597,7 +703,14 @@
       "costo": 0.83,
       "tasa": 918.77,
       "tb": 3812.8954999999996,
-      "u": 1795195883798
+      "u": 1795742626550,
+      "pg": [
+        {
+          "src": "pm",
+          "m": 3812.9,
+          "mon": "BS"
+        }
+      ]
     }
   ]
 }
